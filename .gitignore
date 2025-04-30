@@ -12,4 +12,5 @@ data/cores/*
 .DS_Store
 .vscode/*
 *.tgz
+s
 dist/
